@@ -1,5 +1,6 @@
 # AZERTY CRM
 
+AZERTY CRM with fake Genesys Cloud Composable Desktop
 A comprehensive, dependency-free fake CRM front-end built with plain HTML, CSS and JavaScript.
 
 ## Run it
